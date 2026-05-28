@@ -1,4 +1,4 @@
-<h1>FORM COMPANY</h1>
+<h1 style="color:red;">FORM COMPANY</h1>
 <BR><BR>
 
 <form
